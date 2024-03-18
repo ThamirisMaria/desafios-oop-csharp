@@ -8,7 +8,7 @@ Implemente uma relação entre pessoas e carros:
 2. Crie uma classe `Carro` com os atributos `marca`, `modelo` e `ano`.
 3. Adicione elementos nessa estrutura que façam com que pessoas se tornem donas de carros.
 
-# Desafio 2
+# [Desafio 2](Desafio02)
 
 Crie uma classe `Retangulo` com os atributos `largura` e `altura`. Implemente um método que calcule a área do retângulo (largura x altura) e outro método que calcule o perímetro (2 x largura + 2 x altura).
 
